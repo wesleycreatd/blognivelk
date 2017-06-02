@@ -1,0 +1,18 @@
+.topo{background-color:#000; height:200px;color:#fff;}
+.logo{margin:20px;border:solid 1px red;}
+.titulo{font-size:40px;padding:0.50%; margin-top:-60px;}
+.div{padding:1%;margin:10px;background-color:#FFA500;text-align:center;color:#000;}
+.div:hover{transition:0.6s;background-color:#000;color:#fff;}.div{transition:0.6s}
+.alfabeto{font-size:60px;}
+
+@media only screen and (max-width:1000px){
+	.topo{height:400px;}		
+}
+
+@media only screen and (max-width:1000px){
+	.titulo{margin-top:100px;}		
+}
+
+
+
+

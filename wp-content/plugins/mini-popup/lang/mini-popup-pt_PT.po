@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini PopUp v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-12-31 06:39:52+0000\n"
+"Last-Translator: iagomelanias <me@imelanias.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: mini-popup.php:0
+#@ mini-popup
+msgid "Mini PopUp"
+msgstr "Mini PopUp"
+
+#. translators: plugin header field 'Author'
+#: mini-popup.php:0
+#@ mini-popup
+msgid "Iago Melanias"
+msgstr "Iago Melanias"
+
+#: mini-popup.php:59
+#@ mini-popup
+msgid "Mini PopUp settings"
+msgstr "Configurações Mini Popup"
+
+#: mini-popup.php:100
+#@ mini-popup
+msgid "Saved settings."
+msgstr "Configurações salvas."
+
+#: mini-popup.php:104
+#@ mini-popup
+msgid "Error saving settings."
+msgstr "Erro ao salvar configurações."
+
+#: mini-popup.php:120
+#@ mini-popup
+msgid "Basic settings"
+msgstr "Configurações Básicas"
+
+#: mini-popup.php:125
+#: mini-popup.php:127
+#: mini-popup.php:129
+#: mini-popup.php:168
+#: mini-popup.php:170
+#@ default
+msgid "checked=\"checked\""
+msgstr ""
+
+#: mini-popup.php:126
+#: mini-popup.php:169
+#@ mini-popup
+msgid "Activated"
+msgstr "Ativado"
+
+#: mini-popup.php:128
+#: mini-popup.php:171
+#@ mini-popup
+msgid "Disabled"
+msgstr "Desativado"
+
+#: mini-popup.php:130
+#@ mini-popup
+msgid "Configuration mode <i>(the cookies are disabled to test the popup)</i>"
+msgstr "Modo configuração <i>(os cookies são desativados para testar a popup)</i>"
+
+#: mini-popup.php:134
+#@ mini-popup
+msgid "Facebook Page URL"
+msgstr "URL da Página no Facebook"
+
+#: mini-popup.php:138
+#@ mini-popup
+msgid "Enter the Facebook fanpage address"
+msgstr "Digite o endereço da página do Facebook"
+
+#: mini-popup.php:142
+#@ mini-popup
+msgid "Cookie duration"
+msgstr "Duração dos cookies"
+
+#: mini-popup.php:146
+#@ mini-popup
+msgid "<strong>For example:</strong> if you enter 7, when closing the popup, a file will be recorded and popup only will open again in 7 days."
+msgstr "<strong>Por exemplo:</strong> se você digitar 7, quando fechar a popup, um arquivo será gravado e a popup só voltará a abrir novamente em 7 dias."
+
+#: mini-popup.php:151
+#@ mini-popup
+msgid "Design settings"
+msgstr "Configurações de Design"
+
+#: mini-popup.php:154
+#@ mini-popup
+msgid "Color of the close button"
+msgstr "Cor do botão fechar"
+
+#: mini-popup.php:161
+#@ mini-popup
+msgid "Smart display mode"
+msgstr "Modo de exibição inteligente"
+
+#: mini-popup.php:162
+#@ mini-popup
+msgid "With this mode, you will display the popup only when your reader view a specific number of pages. For example: instead of the reader to see the popup the first time you access your blog, they just will see the popup on access the fourth page. So, the popup will be displayed only for interested readers in the content, increasing the quality and the conversion of their fans."
+msgstr "Com esse modo, você mostrará a popup apenas quando o leitor ver um número específico de páginas. Por exemplo: evita que o seu leitor veja a popup na primeira vez que acessa o seu blog, ele apenas verá a popup ao acessar a a quarta página, por exemplo. assim, a popup apenas será mostrada para leitores interessados no seu conteúdo, aumentando a qualidade e a conversão dos seus fans."
+
+#: mini-popup.php:175
+#@ mini-popup
+msgid "Number of pages visited"
+msgstr "Número de páginas visitadas"
+
+#: mini-popup.php:179
+#@ mini-popup
+msgid "The number of pages from the first visit that will appear the popup."
+msgstr "O número de páginas, a partir da primeira visita, que irá mostrar a popup."
+
+#: mini-popup.php:186
+#@ mini-popup
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#. translators: plugin header field 'PluginURI'
+#: mini-popup.php:0
+#@ mini-popup
+msgid "http://rangecode.com/plugins/mini-popup/"
+msgstr "http://rangecode.com/plugins/mini-popup/"
+
+#. translators: plugin header field 'AuthorURI'
+#: mini-popup.php:0
+#@ mini-popup
+msgid "http://imelanias.com/"
+msgstr "http://imelanias.com/"
+
+#: mini-popup.php:123
+#: mini-popup.php:166
+#@ mini-popup
+msgid "Working setting"
+msgstr "Configuração de funcionamento"
+
+#: mini-popup.php:146
+#@ mini-popup
+msgid "The number of days that the cookie file will be saved in browser."
+msgstr "O número de dias em que o cookie ficará salvo no navegador do usuário."
+
+#: mini-popup.php:214
+#: mini-popup.php:253
+#@ mini-popup
+msgid "en_US"
+msgstr "pt_BR"
+
+#. translators: plugin header field 'Description'
+#: mini-popup.php:0
+#@ mini-popup
+msgid "Shows a popup to share your fanpage in your blog easily."
+msgstr "Mostra uma popup para divulgar sua páginas de fans no seu blog facilmente."
+
+#: mini-popup.php:179
+#@ mini-popup
+msgid "<strong>For example:</strong> if you enter 5, the reader only will see the popup after access 5 pages."
+msgstr "<strong>Por exemplo</strong> se você digitar 5, os leitores apenas verão a popup após acessar 5 páginas."
+
+#. translators: plugin header field 'Version'
+#: mini-popup.php:0
+#@ mini-popup
+msgid "1.2"
+msgstr "1.2"
+
+#: mini-popup.php:163
+#@ mini-popup
+msgid "<strong>Note:</strong> this feature only works when the plugin is enabled mode."
+msgstr "<strong>Atenção:</strong> esse recurso só funciona quando o plugin está no modo ativado."
+
